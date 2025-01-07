@@ -1,2 +1,2 @@
-# Online-Store-Analysis
-Online Store Analysis using SQL
+# Online-Shopping-Analysis
+Online Shopping Analysis using SQL
