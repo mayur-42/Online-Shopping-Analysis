@@ -1,5 +1,5 @@
 # Online-Shopping-Analysis
-Online Shopping Analysis using SQL
+Online Store Shopping Analysis using SQL
 
 ## **📖 About the Project**
 
